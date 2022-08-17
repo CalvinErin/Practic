@@ -11,7 +11,6 @@ public class ConcreteClass extends Sample{
      cc.t4();
      cc.t5();
 // test check
-
 	}
 	public void t5()
 	{
