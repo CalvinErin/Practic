@@ -10,7 +10,7 @@ public class ConcreteClass extends Sample{
      cc.t3();
      cc.t4();
      cc.t5();
-
+// test check
 
 	}
 	public void t5()
